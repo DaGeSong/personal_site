@@ -50,7 +50,7 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">
             Calgary, Alberta
           </h4>
-          <p>-Orginized and Conducted all technical related services to our Customers in all major Alverta citys for six years.</p>
+          <p>-Orginized and Conducted all technical related services to our customers in Alberta for six years.</p>
           <p>-Measurement Canada Recognized Technician since 2020.</p>
           <p>-Gold STAR Employee of 2021.</p>
         </VerticalTimelineElement>
