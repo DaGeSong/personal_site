@@ -11,9 +11,9 @@ function Home() {
         <h2> Hi, I am SongSong</h2>
         <div className="prompt">
           <p>A Cloud Software Developer with a passion for creating.</p>
-          <LinkedInIcon />
-          <EmailIcon />
-          <GithubIcon />
+          <LinkedInIcon onClick={event => window.location.href = "https://www.linkedin.com/in/songsongyu/"} />
+          <EmailIcon onClick={event => window.location.href = "yuqidkj@gmail.com"} />
+          <GithubIcon onClick={event => window.location.href = 'https://github.com/DaGeSong'} />
         </div>
       </div>
       <div className="skills">
