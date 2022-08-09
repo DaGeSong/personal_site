@@ -12,7 +12,7 @@ function Home() {
         <div className="prompt">
           <p>A Cloud Software Developer with a passion for creating.</p>
           <LinkedInIcon onClick={event => window.location.href = "https://www.linkedin.com/in/songsongyu/"} />
-          <EmailIcon onClick={event => window.location.href = "yuqidkj@gmail.com"} />
+          <a href="mailto:yuqidkj@gmail.com"><EmailIcon /></a>
           <GithubIcon onClick={event => window.location.href = 'https://github.com/DaGeSong'} />
         </div>
       </div>

@@ -9,7 +9,7 @@ function Footer() {
     <div className="footer">
       <div className="socialMedia">
         <LinkedInIcon onClick={event => window.location.href = "https://www.linkedin.com/in/songsongyu/"} />
-        <EmailIcon onClick={event => window.location.href = "yuqidkj@gmail.com"} />
+        <a href="mailto:yuqidkj@gmail.com"><EmailIcon /></a>
         <GithubIcon onClick={event => window.location.href = 'https://github.com/DaGeSong'} />
       </div>
       <p> 2022 songsongyu.com</p>
