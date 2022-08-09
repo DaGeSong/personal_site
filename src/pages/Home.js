@@ -28,7 +28,7 @@ function Home() {
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, ExpressJS, Flash
+              NodeJS, ExpressJS, Flask,
               MySQL, MongoDB, DynamoDB
             </span>
           </li>
